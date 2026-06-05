@@ -1,0 +1,16 @@
+EMAIL EXTRACTION REPORT
+========================================
+Source File      : data-1.txt
+Total Found      : 10
+Unique Emails    : 8
+Duplicates       : 2
+----------------------------------------
+  1. admissions@university.edu
+  2. ali.khan@gmail.com
+  3. bilal.cs@gmail.com
+  4. finance@university.edu
+  5. hod.cs@university.edu
+  6. hr@techcorp.com
+  7. jobs@techcorp.com
+  8. sara.ahmed@yahoo.com
+========================================
