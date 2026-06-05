@@ -15,11 +15,15 @@ The primary objective of this project is to automate the process of extracting e
 ---
 
 - Project Files
+- 
 The project consists of the following files:
 
 1.email-extractor.py → Main Python script responsible for extracting email addresses.
+
 2.data-1.txt → Input file containing raw text data and email addresses.
+
 3.backup_result.txt → Output file where the extracted email addresses and report are stored.
+
 
 ---
 
