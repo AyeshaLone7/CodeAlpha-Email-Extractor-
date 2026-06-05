@@ -1,0 +1,17 @@
+Welcome to university newsletter!
+
+Admissions : admissions@university.edu
+HOD CS      : hod.cs@university.edu
+Finance     : finance@university.edu
+
+Scholarship winners:
+ali.khan@gmail.com
+sara.ahmed@yahoo.com
+bilal.cs@gmail.com
+
+Internships: jobs@techcorp.com
+HR contact : hr@techcorp.com
+
+Duplicate test:
+admissions@university.edu
+ali.khan@gmail.com
