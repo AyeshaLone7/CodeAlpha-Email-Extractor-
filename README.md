@@ -15,7 +15,7 @@ The primary objective of this project is to automate the process of extracting e
 ---
 
 - Project Files
-- 
+  
 The project consists of the following files:
 
 1.email-extractor.py → Main Python script responsible for extracting email addresses.
